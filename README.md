@@ -1,5 +1,5 @@
 # [Visual_Question_Answering](https://arxiv.org/pdf/1505.00468.pdf)
-Answering free-form natural language questions regarding an image. This implements of the vanilla VQA model presented in the initial [VQA paper](https://arxiv.org/pdf/1505.00468.pdf)
+Answering free-form natural language questions regarding an image. This repo implements of the vanilla VQA model presented in the initial [VQA paper](https://arxiv.org/pdf/1505.00468.pdf)
 
 - Detailed blog explaining the case study: [link](https://rakshith-s.medium.com/vqa-visual-question-answering-c9289a907507)
 
